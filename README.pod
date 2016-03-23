@@ -19,7 +19,6 @@ hint, hint.)
 
 Guido Schlabitz has provided a useful example for how to use 
 OAuthSimple to connect to Google
-L<http://github.com/jrconlin/oauthsimple/blob/master/php/example.php> 
 
 
 OAuthSimple accepts arguments in a variety of formats and returns a structure
@@ -30,11 +29,10 @@ comments for appropriate usage.)
 
 Please note that the Javascript version is not heavily optimized at this time.
 If you wish to use a more optimized version, please consult 
-Anton Byrna's fork
-L<http://github.com/itrelease/oauthsimple> 
+
 
 OAuth Developers may be interested in my OAuthTestPage at:
-L<http://jrconlin.github.com/OAuthTestPage/>
+
 This will display OAuth1a valid elements and values so you can verify things are working correctly.
 
 =head1 LICENSE
