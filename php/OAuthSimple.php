@@ -1,15 +1,5 @@
 <?php
-/** 
- * OAuthSimple - A simpler version of OAuth
- *
- * https://github.com/jrconlin/oauthsimple
- * 
- * @author     jr conlin <src@jrconlin.com>
- * @copyright  unitedHeroes.net 2011
- * @version    1.3
- * @license    See license.txt
- *
- */
+
 
 class OAuthSimple {
     private $_secrets;
